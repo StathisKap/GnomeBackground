@@ -1,0 +1,1 @@
+gsettings set org.gnome.desktop.background picture-uri "file:///home/stathis/Pictures/Wallpapers/Wallpaper$(date +%u).jpeg"
